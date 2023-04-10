@@ -6,9 +6,9 @@ export default function Login() {
     <div className="login">
       <div className="loginWrapper">
         <div className="loginLeft">
-          <h3 className="loginLogo">Ashutosh Social</h3>
+          <h3 className="loginLogo">Login to Dashboard</h3>
           <spam className="loginDesc">
-            Connect with friends and the world around you on Ashutoshsocial
+           Manage your earnings and spendings in one place
           </spam>
         </div>
         <div className="loginRight">
